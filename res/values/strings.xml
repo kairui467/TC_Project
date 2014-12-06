@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TC_Project</string>
+    <string name="action_settings">设置</string>
+
+    <string name="image">头像</string>
+
+    <string name="title_text">学生考勤查询系统</string>
+    <string name="id_text">账号</string>
+    <string name="user_hint">用户名(student1)</string>
+    <string name="user_edit">李开睿</string>
+    <string name="pwd_text">密码</string>
+    <string name="pwd_hint">密码(123456)</string>
+    <string name="pwd_edit">123456</string>
+    <string name="ok_btn">登录</string>
+
+</resources>
